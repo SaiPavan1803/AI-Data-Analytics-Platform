@@ -47,7 +47,7 @@ project/
 ---
 
 
-## 6. Architecture Diagram
+## 3. Architecture Diagram
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -83,7 +83,7 @@ project/
 
 ---
 
-## 7. Data Flow Diagram
+## 4. Data Flow Diagram
 
 ```
  CSV file ─▶ data_loader.load_csv ─▶ pandas.DataFrame ─┐
@@ -115,7 +115,7 @@ project/
 
 ---
 
-## 10. Sample Dataset
+## 5. Sample Dataset
 
 The bundled `data/sample_sales.csv` contains 1,500 synthetic sales orders
 with the columns:
